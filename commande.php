@@ -1,5 +1,4 @@
 <?php
-  var_dump($_POST);
   // definir les variables
   $firstName = $lastName = "";
   $firstNameErr = $lastNameErr = $sushiErr = $telephoneErr = "";
@@ -102,7 +101,7 @@ if($bool == true){
 
     $file = fopen("commande.csv","a");
 
-    foreach ($list as $line)
+    foreach ($list as $line, ";")
     {
       fputcsv($file, $line);
     }
