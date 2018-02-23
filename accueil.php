@@ -18,7 +18,6 @@
     <p>ce qui vous permettra de consulter notre choix de menu ainsi que d'effectuer votre commande.</p>
     <p>Nous serons ravie de vous servir, merci pour votre visite et bonne appetie.</p>
   </div>
-  <br>
 
   <?php include("coordonees.php"); ?>
 
