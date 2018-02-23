@@ -1,0 +1,73 @@
+body {
+  background-color: beige;
+}
+
+div.logo{
+  background-color: turquoise;
+  padding: 15px;
+}
+
+h1 {
+  text-align: center;
+  color : DodgerBlue;
+  background-color: lightblue;
+  padding:20px;
+}
+
+h3 {
+  text-align: center;
+  color : white;
+  background-color: #3c3c3c;
+  padding:10px;
+}
+
+.error{
+  color: red;
+}
+
+div.paraAccueil{
+  text-align: center;
+  background-color: lightblue;
+  padding:20px;
+}
+
+div.button{
+  text-align: center;
+}
+
+div.Choix{
+  text-align: center;
+  word-spacing: 50px;
+  background-color:#b4b4b4;
+  color: white;
+  padding:10px;
+}
+
+.tof{
+  padding: 105px;
+}
+
+.imageRight{
+  position: absolute;
+  right: 450px;
+}
+
+.imageLeft{
+  position: absolute;
+  left: 450px;
+}
+
+div.picDescrip{
+  padding: 5px;
+  width: 170px;
+  background-color: lightblue;
+  text-align: center;
+  color:grey;
+  font-family: sans-serif, 'Arial';
+}
+
+div.coordonnées{
+  text-align: center;
+  background-color: lightgrey;
+  padding: 10px;
+}
